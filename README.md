@@ -8,8 +8,11 @@
 
 📹 Learn more about the mentorship program from this video 
 
-
-[![Everything about Frontend Developer Mentorship](http://img.youtube.com/vi/OmgIP2EZJx4/0.jpg)](http://www.youtube.com/watch?v=OmgIP2EZJx4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OmgIP2EZJx4">
+    <img src="https://img.youtube.com/vi/OmgIP2EZJx4/0.jpg" alt="Everything about Frontend Developer Mentorship" />
+  </a>
+</p>
 
 ## Optimize Your LinkedIn Profile
 
@@ -17,7 +20,11 @@
 
 🎬 Check out this tutorial video to learn how to improve your LinkedIn profile and attract potential employers.
 
-[![LinkedIn Guide](http://img.youtube.com/vi/MJC1SI-f2eA/0.jpg)](http://www.youtube.com/watch?v=MJC1SI-f2eA)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MJC1SI-f2eA">
+    <img src="https://img.youtube.com/vi/MJC1SI-f2eA/0.jpg" alt="LinkedIn Guide" />
+  </a>
+</p>
 
 ## Let’s Create Profile on AngelList (Wellfound)
 
@@ -27,7 +34,11 @@
 
 👨‍💻 This is the method I use to **get 20+ internships and job offers**: After setting up your profiles on LinkedIn and AngelList, start applying to internships and jobs that match your skills and interests. Tailor your application to the specific company and position, and follow up with the recruiter or hiring manager. It's important to be persistent and patient, and to always give your best effort.💪
 
-[![How I get 20+ Internships & Jobs Offer](http://img.youtube.com/vi/RIZJ4um56f8/0.jpg)](http://www.youtube.com/watch?v=RIZJ4um56f8)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=RIZJ4um56f8">
+    <img src="https://img.youtube.com/vi/RIZJ4um56f8/0.jpg" alt="How I get 20+ Internships & Jobs Offer" />
+  </a>
+</p>
 
 ### 🎥 Here are the upcoming topics we will discuss:
 
