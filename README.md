@@ -40,6 +40,24 @@
   </a>
 </p>
 
+## Let's Create a Resume that got shortlisted everywhere:
+
+Include essential sections such as header, summary, experience, education, skills, achievements, and coding profiles 👨‍💻
+
+Optimize your resume using ChatGPT 🤖 and improve your ATS score using Resumeworded 📈
+
+Get your first experience as a remote frontend developer through open-source projects and internships 🌎
+
+Explore different resume templates, including single-column and two-column designs 🎨
+
+Create a resume on Overleaf 🖥️ to showcase your skills and experience in a professional manner 💼
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1sUIvJM939c">
+    <img src="https://img.youtube.com/vi/1sUIvJM939c/0.jpg" alt="3 Killer Resume that got me 20+ job offers" />
+  </a>
+</p>
+
 ### 🎥 Here are the upcoming topics we will discuss:
 
 📄 Learn how to craft a resume that showcases your skills and experience for startups. We'll cover different types of resumes for freshers, experienced professionals, internships, and MNCs.
